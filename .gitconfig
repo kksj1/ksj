@@ -1,0 +1,10 @@
+[user]
+	name = kimsujin
+	email = ksj@afm.co.kr
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[init]
+	defaultBranch = main
